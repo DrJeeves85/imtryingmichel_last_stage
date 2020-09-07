@@ -1,1 +1,1 @@
-[I'm a relative reference to a repository file](/https://github.com/DrJeeves85/imtryingmichel_last_stage/blob/master/Timegaps%20Tour%20de%20France%202020%20-%20Stage%207.html)
+[I'm a relative reference to a repository file](../blob/master/Timegaps%20Tour%20de%20France%202020%20-%20Stage%207.html)
